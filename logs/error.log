@@ -40,3 +40,6 @@
 2022/08/30 08:09:14 [emerg] 1#1: host not found in upstream "server" in /etc/nginx/nginx.conf:10
 2022/08/30 08:10:15 [emerg] 1#1: host not found in upstream "server" in /etc/nginx/nginx.conf:10
 2022/08/30 08:11:15 [emerg] 1#1: host not found in upstream "server" in /etc/nginx/nginx.conf:10
+2022/08/30 08:12:15 [emerg] 1#1: host not found in upstream "server" in /etc/nginx/nginx.conf:10
+2022/08/30 08:13:16 [emerg] 1#1: host not found in upstream "server" in /etc/nginx/nginx.conf:10
+2022/08/30 08:14:16 [emerg] 1#1: host not found in upstream "server" in /etc/nginx/nginx.conf:10
